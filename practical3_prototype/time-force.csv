@@ -1,0 +1,8 @@
+# An example time-force CSV file.
+# Time (s), Force (kg*m/s**2)
+1, 19.6
+2, 19.82
+3, 19.77
+4, 19.78
+5, 19.3
+

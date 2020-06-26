@@ -1,0 +1,7 @@
+# An example acceleration-time CSV file.
+# Time (s), Acceleration (m/s**2)
+1, 9.8
+2, 9.81
+3, 9.47
+4, 9.33
+5, 9.2
